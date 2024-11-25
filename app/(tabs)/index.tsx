@@ -4,8 +4,8 @@ import { View, Text, StyleSheet } from "react-native";
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Hello saya akhyar</Text>
-      <Text style={styles.text}>Fakultas Sains dan Teknologi</Text>
+      <Text style={styles.text}>Hello saya akhyar alhafiz</Text>
+      <Text style={styles.text}>Bebas bebas</Text>
     </View>
   );
 };
@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#fcfc03',
+    backgroundColor: '#00000',
   },
   text: {
     fontSize: 30,
